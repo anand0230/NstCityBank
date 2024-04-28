@@ -9,8 +9,8 @@ public Date getSysDate() {
 	return det;
 }
 public void m1() {
-	
 	System.out.println("Utility.m1()..1234");
+	System.out.println("Anand");
 }
 
 }
