@@ -8,5 +8,9 @@ public Date getSysDate() {
 	Date det=new Date();
 	return det;
 }
+public void m1() {
+	
+	System.out.println("Utility.m1()");
+}
 
 }
