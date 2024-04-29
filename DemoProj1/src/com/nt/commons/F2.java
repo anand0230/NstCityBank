@@ -9,5 +9,10 @@ public class F2 {
 	public void f3() {
 		
 	}
+	public void f4() {
+		System.out.println("hii");
+	}
+	
+	
 
 }
