@@ -13,4 +13,9 @@ public void m1() {
 	System.out.println("Anand");
 }
 
+public void m2() {
+	System.out.println("hii");
+}
+
+
 }
